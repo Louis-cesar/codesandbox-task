@@ -1,0 +1,13 @@
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 400px;
+  color: white;
+}
+.container {
+  height: 60vw;
+  width: 165vh;
+
+  background-color: aqua;
+}
